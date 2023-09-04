@@ -30,5 +30,13 @@ In this game, you think of a number within a specified range, and the computer w
     
     ```bash
     cd number-guessing-game
+    
+3. Run the game by executing the Python script:
+
+     For the user guessing game:
+     ```bash
+    python number_guess_user.py
+
+           
 
    
