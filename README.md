@@ -25,3 +25,10 @@ In this game, you think of a number within a specified range, and the computer w
 
    ```bash
    git clone https://github.com/chular/untitled.git
+   
+2. Navigate to the project directory:
+    
+    ```bash
+    cd number-guessing-game
+
+   
