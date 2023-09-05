@@ -36,10 +36,13 @@ In this game, you think of a number within a specified range, and the computer w
      For the user guessing game:
      ```bash
     python number_guess_user.py
-     
-     For the computer guessing game:
+
+
+     For the user guessing game:
      ```bash
-     python number_guess_computer.py
+    python number_guess_user.py
+     
+    
 
      
 
