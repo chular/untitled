@@ -59,3 +59,5 @@ In this game, you think of a number within a specified range, and the computer w
    git clone https://github.com/chular/untitled.git
 
 
+Navigate to the project directory:
+
