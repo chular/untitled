@@ -58,5 +58,4 @@ In this game, you think of a number within a specified range, and the computer w
    ```bash
    git clone https://github.com/chular/untitled.git
 
-Run the game by executing the Python script:
 
