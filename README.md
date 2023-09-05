@@ -38,7 +38,7 @@ In this game, you think of a number within a specified range, and the computer w
    ```bash
    python number_guess_user.py
    
-For computer guessing game:
+   For computer guessing game:
      
     
  4. Follow the on-screen instructions to play the game
