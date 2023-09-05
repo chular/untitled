@@ -46,7 +46,7 @@ In this game, you think of a number within a specified range, and the computer w
      python number_guess_computer.py
      
     
-
+ 4. Follow the on-screen instructions to play the game
      
 
            
