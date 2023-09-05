@@ -47,6 +47,14 @@ In this game, you think of a number within a specified range, and the computer w
      
     
  4. Follow the on-screen instructions to play the game
+
+## Scoring
+A scoring system has been implemented based on your performance in the games. You will receive a score of 10 credits if you have a high percentage of correct guesses after 10 attempts. The scoring criteria are as follows:
+
+Correct guesses in 10 or fewer attempts.
+Success rate (correct guesses / total attempts) of 70% or higher.
+## Contributing
+Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request
      
 
            
