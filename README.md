@@ -1,4 +1,4 @@
-# untitled
+# Number Guessing Game
 
 This is a simple Python program that allows you to play two number guessing games: one where you guess the number, and the other where the computer guesses the number.
 
@@ -21,37 +21,7 @@ In this game, you think of a number within a specified range, and the computer w
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/chular/untitled.git
-   
-2. Navigate to the project directory:
-    
-    ```bash
-    cd number-guessing-game
-    
-3. Run the game by executing the Python script:
-
-   For the user guessing game:
-
-   ```bash
-   python number_guess_user.py
-   
-   For computer guessing game:
-     
-    
- 4. Follow the on-screen instructions to play the game
-
-## Scoring
-A scoring system has been implemented based on your performance in the games. You will receive a score of 10 credits if you have a high percentage of correct guesses after 10 attempts. The scoring criteria are as follows:
-
-Correct guesses in 10 or fewer attempts.
-Success rate (correct guesses / total attempts) of 70% or higher.
-## Contributing
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request
-     
-
-           
-
-   
