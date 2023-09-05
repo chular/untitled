@@ -32,18 +32,13 @@ In this game, you think of a number within a specified range, and the computer w
     cd number-guessing-game
     
 3. Run the game by executing the Python script:
-   
 
    For the user guessing game:
 
-     ```bash
-     python number_guess_user.py
-
-
-   For computer guessing game:
-
-     ```bash
-     python number_guess_computer.py
+   ```bash
+   python number_guess_user.py
+   
+For computer guessing game:
      
     
  4. Follow the on-screen instructions to play the game
