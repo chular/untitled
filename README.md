@@ -30,7 +30,7 @@ Your score is calculated based on the number of attempts and correct guesses:
 
 ## License
 
-This project is currently not licensed under any specific license. It is for personal use and may not be used or distributed without the owner's permission.
+This project is currently not licensed under any specific license. It is for personal use and may be used and distributed without the owner's permission.
 
-Please contact the project owner if you have any questions regarding the usage or distribution of this code.
+
 
