@@ -1,6 +1,12 @@
 # Number Guessing Game
 
-A simple Python program that allows you to play a number guessing game. You can either guess the number or let the computer guess your number. Test your guessing skills and see how well you can do!
+A console-based Python number guessing game featuring two interactive modes:
+
+the player guesses a randomly generated number, or
+
+the computer guesses a number the player is thinking of using an efficient binary search strategy.
+
+This project demonstrates Python fundamentals, algorithmic thinking, input validation, and clean code structure.
 
 ## How to Play
 
