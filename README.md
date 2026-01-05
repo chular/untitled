@@ -37,7 +37,7 @@ Open a terminal in the project directory.
 
 Run the game using:
 
-python number_guessing_game.py
+`python number_guessing_game.py`
 
 
 ### Guess the Number Yourself
