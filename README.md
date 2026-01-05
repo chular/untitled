@@ -42,7 +42,7 @@ Run the game using:
 
 ## Game Modes
 
-### 1. Player Guesses the Numbe
+### 1. Player Guesses the Number
 The computer selects a random number within a chosen range.
 
 You attempt to guess the number.
@@ -57,19 +57,75 @@ Correct
 
 The game tracks the number of attempts taken.
 
-### Let the Computer Guess Your Number
+### 2. Computer Guesses the Number
 
-In this game mode, you think of a number between 1 and the specified maximum range. The computer will make guesses and you provide feedback on whether its guess is too high, too low, or correct. The computer will try to guess your number with the fewest attempts possible.
+You think of a number within a chosen range.
 
-## Scoring
+The computer attempts to guess your number using binary search logic.
 
-Your score is calculated based on the number of attempts and correct guesses:
-- If you guess the number yourself, you earn credits based on how quickly and accurately you guess.
-- If you let the computer guess your number, your score is based on the number of attempts the computer takes.
+You respond with:
+
+H → Too high
+
+L → Too low
+
+C → Correct
+
+The computer minimizes the number of attempts efficiently
+
+## Scoring System
+
+| Attempts     | Score     |
+| ------------ | --------- |
+| 5 or fewer   | 10 points |
+| 6–10         | 5 points  |
+| More than 10 | 0 points  |
+
+
+## Project Structure
+
+Clear separation of concerns using functions
+
+Central `main()` function to manage program flow
+
+Reusable input validation utility
+
+Algorithm-focused logic for computer guessing
+
+
+## Skills Demonstrated
+
+Python programming
+
+Control flow and loops
+
+Functions and modular design
+
+Input validation and error handling
+
+Binary search algorithm
+
+Refactoring and code maintainability
+
+
+## Future Improvements
+
+Object-Oriented Programming (OOP) version
+
+Unit tests
+
+Difficulty levels
+
+Graphical User Interface (GUI)
+
+Persistent score tracking
 
 ## License
 
-This project is currently not licensed under any specific license. It is for personal use and may be used and distributed without the owner's permission.
+This project is currently unlicensed and intended for learning and portfolio purposes.
+You are free to use, modify, and distribute it
+
+
 
 
 
